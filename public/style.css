@@ -1,0 +1,32 @@
+.MuiTabs-flexContainer.MuiTabs-flexContainerVertical.css-lfwcke-MuiTabs-flexContainer{
+    align-items: baseline;
+}
+
+.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.css-1p823my-MuiListItem-root{
+    width: 60vw;
+}
+
+.box .MuiTabs-flexContainer.MuiTabs-flexContainerVertical.css-lfwcke-MuiTabs-flexContainer{
+    width: 100px;
+}
+
+.MuiTabs-indicator.css-10d9dml-MuiTabs-indicator{
+display: none;
+}
+
+.box .Mui-selected{
+   border: 3px solid hsl(210deg 79% 46%);
+   border-radius: 4px;
+}
+
+.box .MuiTabs-scroller.MuiTabs-hideScrollbar.MuiTabs-scrollableY.css-1cgx7kx-MuiTabs-scroller{
+    margin-top: 10px;
+}
+
+.modi .Mui-selected{
+border-left: 3px solid;
+}
+
+.modi {
+border-right: 2px solid #d3d3d3;
+}
